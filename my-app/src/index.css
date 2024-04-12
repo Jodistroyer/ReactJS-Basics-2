@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.appSpace {
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+
+.mainTitles {
+  color: purple;
+  font-size: 100px;
+}
+
+.sectionTitles {
+  color: blue;
+  font-size: 80px;
+}
+
+.subTitles {
+  color: red;
+  font-size: 50px;
+}
+
+/*.Form2 {
+  position: fixed;
+  bottom: 21%;
+  left: 50%;
+  transform: translate(-50%);
+  width: 100%;
+  height: auto;
+}*/
