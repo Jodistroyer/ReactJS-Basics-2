@@ -25,3 +25,7 @@ React Hooks:
 - HTML/CSS
 - JavaScript
 
+## Authorship
+A code project by Wong Jo-Hann
+
+Knoknox SDN BHD
